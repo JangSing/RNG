@@ -10,7 +10,7 @@ struct RNGtype_t{
 	uint32_t DR;
 };
 
-#define RNG ((RNGtype *)(0x50060800))
+#define RNG_REG ((RNGtype *)(0x50060800))
 
 void enableInterrupt();
 

@@ -10,8 +10,8 @@ void rngUnresetEnableClock(){
 }
 
 int readyToRead(){
-	RNG->SR &= 0x111;
-	if(RNG->SR==0x1)
+	RNG_REG->SR &= 0x111;
+	if(RNG_REG->SR==0x1)
 		return 1;
 	else {
 		return 0;
@@ -19,19 +19,32 @@ int readyToRead(){
 }
 
 void enableRngReg(){
-	RNG->CR=((uint32_t)(0x4));
+	RNG_REG->CR=((uint32_t)(0x4));
 }
+
+/*
+void HASH_RNG_IRQHandler(){
+	int status = RNG_reg->RNG_SR;
+	if(status == 1)
+		randomValue = RNG_REG->RNG_DR;
+	else
+		RNG_REG->RNG_SR = 0;
+
+	entered++;
+}
+*/
 
 int main (){
 	rngUnresetEnableClock();
 	enableRngReg();
 
+	HAL_NVIC_EnableIRQ(HASH_RNG_IRQn);
 
 	uint32_t randomVal;
 
 	while(1){
 		if(readyToRead()){
-			randomVal=RNG->DR;
+			randomVal=RNG_REG->DR;
 		}
 	}
 }

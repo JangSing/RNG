@@ -21,33 +21,69 @@
 <part id="3"/>
 <part id="4"/>
 <part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" partName="main.c" path="C:/Users/D203C-01/CoIDE/workspace/RNG/app/main.c" title="main.c" tooltip="C:/Users/D203C-01/CoIDE/workspace/RNG/app/main.c" workbook="DefaultEditorWorkbook">
+<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" partName="main.c" path="C:/Users/User/CoIDE/workspace/RNG/app/main.c" title="main.c" tooltip="C:/Users/User/CoIDE/workspace/RNG/app/main.c" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/RNG/App/main.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="221" selectionTopPixel="180"/>
+<editorState selectionHorizontalPixel="0" selectionLength="22" selectionOffset="0" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="RNG.c" partName="RNG.c" path="C:/Users/D203C-01/CoIDE/workspace/RNG/app/RNG.c" title="RNG.c" tooltip="C:/Users/D203C-01/CoIDE/workspace/RNG/app/RNG.c" workbook="DefaultEditorWorkbook">
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="RNG.c" partName="RNG.c" path="C:/Users/User/CoIDE/workspace/RNG/app/RNG.c" title="RNG.c" tooltip="C:/Users/User/CoIDE/workspace/RNG/app/RNG.c" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/RNG/App/RNG.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="18" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="20" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="RNG.h" partName="RNG.h" path="C:/Users/D203C-01/CoIDE/workspace/RNG/app/RNG.h" title="RNG.h" tooltip="C:/Users/D203C-01/CoIDE/workspace/RNG/app/RNG.h" workbook="DefaultEditorWorkbook">
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="RNG.h" partName="RNG.h" path="C:/Users/User/CoIDE/workspace/RNG/app/RNG.h" title="RNG.h" tooltip="C:/Users/User/CoIDE/workspace/RNG/app/RNG.h" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/RNG/App/RNG.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="164" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="183" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Rcc.h" partName="Rcc.h" path="C:/Users/D203C-01/CoIDE/workspace/Blinky/app/Rcc.h" title="Rcc.h" tooltip="C:/Users/D203C-01/CoIDE/workspace/Blinky/app/Rcc.h" workbook="DefaultEditorWorkbook">
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Rcc.h" partName="Rcc.h" path="C:/Users/User/CoIDE/workspace/Blinky/app/Rcc.h" title="Rcc.h" tooltip="C:/Users/User/CoIDE/workspace/Blinky/app/Rcc.h" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/RNG/App/Rcc.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="380" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="380" selectionTopPixel="277"/>
 </editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Gpio.h" partName="Gpio.h" path="C:/Users/D203C-01/CoIDE/workspace/Blinky/app/Gpio.h" title="Gpio.h" tooltip="C:/Users/D203C-01/CoIDE/workspace/Blinky/app/Gpio.h" workbook="DefaultEditorWorkbook">
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="Gpio.h" partName="Gpio.h" path="C:/Users/User/CoIDE/workspace/Blinky/app/Gpio.h" title="Gpio.h" tooltip="C:/Users/User/CoIDE/workspace/Blinky/app/Gpio.h" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/RNG/App/Gpio.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="8" selectionOffset="226" selectionTopPixel="780"/>
+<editorState selectionHorizontalPixel="0" selectionLength="8" selectionOffset="226" selectionTopPixel="737"/>
 </editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f429xx.h" partName="stm32f429xx.h" path="C:/Users/D203C-01/CoIDE/workspace/Blinky/Config/stm32f429xx.h" title="stm32f429xx.h" tooltip="C:/Users/D203C-01/CoIDE/workspace/Blinky/Config/stm32f429xx.h" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/RNG/Config/stm32f429xx.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="79045" selectionTopPixel="28338"/>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="core_cm7.h" partName="core_cm7.h" path="C:/Users/User/CoIDE/workspace/RNG/Core/core_cm7.h" title="core_cm7.h" tooltip="C:/Users/User/CoIDE/workspace/RNG/Core/core_cm7.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/RNG/Core/core_cm7.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="core_cm4.h" partName="core_cm4.h" path="C:/Users/User/CoIDE/workspace/RNG/Core/core_cm4.h" title="core_cm4.h" tooltip="C:/Users/User/CoIDE/workspace/RNG/Core/core_cm4.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/RNG/Core/core_cm4.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="core_cm3.h" partName="core_cm3.h" path="C:/Users/User/CoIDE/workspace/RNG/Core/core_cm3.h" title="core_cm3.h" tooltip="C:/Users/User/CoIDE/workspace/RNG/Core/core_cm3.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/RNG/Core/core_cm3.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="core_cm0plus.h" partName="core_cm0plus.h" path="C:/Users/User/CoIDE/workspace/RNG/Core/core_cm0plus.h" title="core_cm0plus.h" tooltip="C:/Users/User/CoIDE/workspace/RNG/Core/core_cm0plus.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/RNG/Core/core_cm0plus.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="core_cm0.h" partName="core_cm0.h" path="C:/Users/User/CoIDE/workspace/RNG/Core/core_cm0.h" title="core_cm0.h" tooltip="C:/Users/User/CoIDE/workspace/RNG/Core/core_cm0.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/RNG/Core/core_cm0.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32_hal_legacy.h" partName="stm32_hal_legacy.h" path="C:/Users/User/CoIDE/workspace/RNG/Config/Legacy/stm32_hal_legacy.h" title="stm32_hal_legacy.h" tooltip="C:/Users/User/CoIDE/workspace/RNG/Config/Legacy/stm32_hal_legacy.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/RNG/Config/stm32_hal_legacy.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="449" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="system_stm32f4xx.c" partName="system_stm32f4xx.c" path="C:/Users/User/CoIDE/workspace/RNG/Config/system_stm32f4xx.c" title="system_stm32f4xx.c" tooltip="C:/Users/User/CoIDE/workspace/RNG/Config/system_stm32f4xx.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/RNG/Config/system_stm32f4xx.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="873" selectionTopPixel="1320"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx.h" partName="stm32f4xx.h" path="C:/Users/User/CoIDE/workspace/RNG/Config/stm32f4xx.h" title="stm32f4xx.h" tooltip="C:/Users/User/CoIDE/workspace/RNG/Config/stm32f4xx.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/RNG/Config/stm32f4xx.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -57,7 +93,7 @@
 </viewState>
 </view>
 <view id="org.coocox.builder.ui.views.ProjectView" partName="Project">
-<viewState CommonNavigator.LINKING_ENABLED="1" horizontalPosition="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0" verticalPosition="0">
+<viewState CommonNavigator.LINKING_ENABLED="1" horizontalPosition="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0" verticalPosition="1">
 <expanded>
 <element path="/RNG"/>
 <element path="/RNG/App"/>
@@ -202,8 +238,8 @@
 <hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
 <hide_toolbar_item_id id="org.coocox.builder.ui.build"/>
 <hide_toolbar_item_id id="org.coocox.welcome.ui.action.welcome"/>
-<hide_toolbar_item_id id="org.coocox.component.ui.ShowRepositoryAction"/>
 <hide_toolbar_item_id id="org.coocox.codebugger.configuration.coideProgramDownloadAction"/>
+<hide_toolbar_item_id id="org.coocox.component.ui.ShowRepositoryAction"/>
 <view id="org.eclipse.ui.console.ConsoleView"/>
 <view id="org.eclipse.debug.ui.DebugView"/>
 <view id="org.coocox.codebugger.trace.ui.traceview"/>
@@ -231,7 +267,7 @@
 </folder>
 </info>
 <info folder="true" part="org.eclipse.ui.internal.ViewStack@6df156" ratio="0.69977427" ratioLeft="620" ratioRight="266" relationship="4" relative="org.eclipse.ui.internal.ViewStack@1062c97">
-<folder activePageID="org.eclipse.debug.ui.DebugView" appearance="2" expanded="2">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
 <page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
 <page content="org.eclipse.debug.ui.BreakpointView" label="LabelNotFound"/>
@@ -267,7 +303,7 @@
 </presentation>
 </folder>
 </info>
-<info part="org.eclipse.ui.editorss" ratio="0.20530452" ratioLeft="209" ratioRight="809" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1062c97"/>
+<info part="org.eclipse.ui.editorss" ratio="0.15922798" ratioLeft="264" ratioRight="1394" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1062c97"/>
 </mainWindow>
 </layout>
 </perspective>
@@ -276,161 +312,125 @@
 <navigationHistory>
 <editors>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/RNG/App/main.c"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/RNG/App/RNG.h"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/RNG/App/Rcc.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/RNG/Config/stm32f429xx.h"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/RNG/App/Gpio.h"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/RNG/App/RNG.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/RNG/App/main.c"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/RNG/Config/stm32f429xx.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/RNG/App/Gpio.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/RNG/App/Rcc.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/RNG/Config/startup_stm32f429xx.s"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.asm.AsmEditor" path="/RNG/Config/startup_stm32f429xx.s"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/RNG/Core/core_cm7.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/RNG/Core/core_cm4.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/RNG/Core/core_cm3.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/RNG/Core/core_cm0plus.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/RNG/Core/core_cm0.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/RNG/Config/stm32_hal_legacy.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/RNG/Config/system_stm32f4xx.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/RNG/Config/stm32f4xx.h"/>
 </editors>
 <item historyLabel="main.c" index="0">
-<position info="not_deleted" x="464" y="0"/>
+<position info="not_deleted" x="505" y="0"/>
 </item>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="353" y="0"/>
+<item historyLabel="stm32f429xx.h" index="1">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="383" y="0"/>
-</item>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="353" y="0"/>
-</item>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="292" y="0"/>
-</item>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="353" y="0"/>
-</item>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="332" y="0"/>
-</item>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="395" y="0"/>
-</item>
-<item historyLabel="Rcc.h" index="2">
-<position info="not_deleted" x="38" y="0"/>
-</item>
-<item historyLabel="Gpio.h" index="3">
+<item historyLabel="Gpio.h" index="2">
 <position info="not_deleted" x="226" y="8"/>
 </item>
-<item historyLabel="RNG.h" index="1">
-<position/>
-</item>
-<item historyLabel="Gpio.h" index="3">
-<position info="not_deleted" x="226" y="8"/>
-</item>
-<item historyLabel="Rcc.h" index="2">
-<position info="not_deleted" x="38" y="0"/>
-</item>
-<item historyLabel="Gpio.h" index="3">
-<position info="not_deleted" x="226" y="8"/>
-</item>
-<item historyLabel="Rcc.h" index="2">
-<position info="not_deleted" x="38" y="0"/>
-</item>
-<item historyLabel="RNG.h" index="1">
-<position/>
+<item historyLabel="RNG.c" index="3">
+<position info="not_deleted" x="20" y="0"/>
 </item>
 <item historyLabel="main.c" index="0">
-<position info="not_deleted" x="395" y="0"/>
+<position info="not_deleted" x="505" y="0"/>
 </item>
-<item historyLabel="Gpio.h" index="3">
-<position info="not_deleted" x="226" y="8"/>
+<item historyLabel="RNG.c" index="3">
+<position info="not_deleted" x="20" y="0"/>
 </item>
-<item historyLabel="Rcc.h" index="2">
-<position info="not_deleted" x="38" y="0"/>
-</item>
-<item historyLabel="RNG.h" index="1">
-<position/>
-</item>
-<item historyLabel="main.c" index="0">
-<position/>
-</item>
-<item historyLabel="RNG.c" index="4">
-<position/>
-</item>
-<item historyLabel="RNG.h" index="1">
-<position/>
-</item>
-<item historyLabel="main.c" index="0">
-<position/>
-</item>
-<item historyLabel="RNG.h" index="1">
-<position/>
-</item>
-<item historyLabel="Gpio.h" index="3">
-<position info="not_deleted" x="226" y="8"/>
-</item>
-<item historyLabel="main.c" index="0">
-<position/>
-</item>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="332" y="0"/>
-</item>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="485" y="0"/>
-</item>
-<item historyLabel="RNG.h" index="1">
-<position/>
-</item>
-<item historyLabel="RNG.c" index="4">
-<position info="not_deleted" x="18" y="0"/>
+<item historyLabel="main.c" index="4">
+<position info="not_deleted" x="392" y="0"/>
 </item>
 <item historyLabel="stm32f429xx.h" index="5">
-<position/>
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="RNG.c" index="4">
-<position info="not_deleted" x="18" y="0"/>
+<item historyLabel="Gpio.h" index="6">
+<position info="not_deleted" x="226" y="8"/>
 </item>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="485" y="0"/>
-</item>
-<item historyLabel="RNG.c" index="4">
-<position info="not_deleted" x="18" y="0"/>
-</item>
-<item historyLabel="RNG.h" index="1">
-<position/>
-</item>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="485" y="0"/>
-</item>
-<item historyLabel="stm32f429xx.h" index="5">
-<position info="not_deleted" x="79056" y="0"/>
-</item>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="188" y="0"/>
-</item>
-<item historyLabel="RNG.c" index="4">
-<position info="not_deleted" x="18" y="0"/>
-</item>
-<item historyLabel="RNG.h" index="1">
-<position info="not_deleted" x="0" y="255"/>
-</item>
-<item historyLabel="Rcc.h" index="2">
-<position info="not_deleted" x="38" y="0"/>
-</item>
-<item historyLabel="stm32f429xx.h" index="5">
-<position info="not_deleted" x="79056" y="0"/>
-</item>
-<item historyLabel="Rcc.h" index="2">
+<item historyLabel="Rcc.h" index="7">
 <position info="not_deleted" x="380" y="0"/>
 </item>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="243" y="25"/>
+<item historyLabel="stm32f429xx.h" index="5">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="RNG.h" index="1">
-<position info="not_deleted" x="164" y="0"/>
+<item historyLabel="startup_stm32f429xx.s" index="8">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="332" y="0"/>
+<item historyLabel="startup_stm32f429xx.s" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="startup_stm32f429xx.s" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="main.c" index="4">
+<position info="not_deleted" x="408" y="0"/>
+</item>
+<item historyLabel="main.c" index="4">
+<position info="not_deleted" x="216" y="0"/>
+</item>
+<item historyLabel="startup_stm32f429xx.s" index="9">
+<position info="not_deleted" x="0" y="0"/>
 </item>
 <item historyLabel="stm32f429xx.h" index="5">
-<position info="not_deleted" x="79045" y="0"/>
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="332" y="0"/>
+<item historyLabel="startup_stm32f429xx.s" index="9">
+<position info="not_deleted" x="528" y="0"/>
 </item>
-<item active="true" historyLabel="main.c" index="0">
-<position info="not_deleted" x="464" y="23"/>
+<item historyLabel="RNG.c" index="3">
+<position info="not_deleted" x="20" y="0"/>
+</item>
+<item historyLabel="main.c" index="4">
+<position info="not_deleted" x="216" y="0"/>
+</item>
+<item historyLabel="main.c" index="4">
+<position info="not_deleted" x="408" y="0"/>
+</item>
+<item historyLabel="main.c" index="4">
+<position info="not_deleted" x="493" y="0"/>
+</item>
+<item historyLabel="core_cm7.h" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="core_cm4.h" index="11">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="core_cm3.h" index="12">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="core_cm0plus.h" index="13">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="core_cm0.h" index="14">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="stm32_hal_legacy.h" index="15">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="system_stm32f4xx.c" index="16">
+<position info="not_deleted" x="873" y="0"/>
+</item>
+<item historyLabel="stm32f4xx.h" index="17">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="stm32_hal_legacy.h" index="15">
+<position info="not_deleted" x="449" y="0"/>
+</item>
+<item historyLabel="RNG.c" index="3">
+<position info="not_deleted" x="20" y="0"/>
+</item>
+<item active="true" historyLabel="main.c" index="4">
+<position info="not_deleted" x="22" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -439,47 +439,44 @@
 <actionBarAdvisor/>
 </window>
 <mruList>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f429xx.h" tooltip="RNG/Config/stm32f429xx.h">
-<persistable path="/RNG/Config/stm32f429xx.h"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.asm.AsmEditor" name="startup_stm32f429xx.s" tooltip="RNG/Config/startup_stm32f429xx.s">
-<persistable path="/RNG/Config/startup_stm32f429xx.s"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Gpio.h" tooltip="RNG/App/Gpio.h">
-<persistable path="/RNG/App/Gpio.h"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Rcc.c" tooltip="RNG/App/Rcc.c">
-<persistable path="/RNG/App/Rcc.c"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Rcc.h" tooltip="RNG/App/Rcc.h">
-<persistable path="/RNG/App/Rcc.h"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="core_cm4.h" tooltip="RNG/Config/core_cm4.h">
-<persistable path="/RNG/Config/core_cm4.h"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx.h" tooltip="RNG/Config/stm32f4xx.h">
+<persistable path="/RNG/Config/stm32f4xx.h"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="system_stm32f4xx.c" tooltip="RNG/Config/system_stm32f4xx.c">
 <persistable path="/RNG/Config/system_stm32f4xx.c"/>
 </file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f429xx.h" tooltip="C:\Users\D203C-01\CoIDE\workspace\RNG\Config\stm32f429xx.h">
-<persistable uri="file:/C:/Users/D203C-01/CoIDE/workspace/RNG/Config/stm32f429xx.h"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32_hal_legacy.h" tooltip="RNG/Config/stm32_hal_legacy.h">
+<persistable path="/RNG/Config/stm32_hal_legacy.h"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f4xx.h" tooltip="RNG/Config/stm32f4xx.h">
-<persistable path="/RNG/Config/stm32f4xx.h"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="core_cm0.h" tooltip="RNG/Core/core_cm0.h">
+<persistable path="/RNG/Core/core_cm0.h"/>
 </file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Gpio.h" tooltip="C:\Users\D203C-01\CoIDE\workspace\Blinky\app\Gpio.h">
-<persistable uri="file:/C:/Users/D203C-01/CoIDE/workspace/Blinky/app/Gpio.h"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="core_cm0plus.h" tooltip="RNG/Core/core_cm0plus.h">
+<persistable path="/RNG/Core/core_cm0plus.h"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.asm.AsmEditor" name="startup_stm32f429xx.s" tooltip="RNG/App/startup_stm32f429xx.s">
-<persistable path="/RNG/App/startup_stm32f429xx.s"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="core_cm3.h" tooltip="RNG/Core/core_cm3.h">
+<persistable path="/RNG/Core/core_cm3.h"/>
 </file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" tooltip="C:\Users\D203C-01\CoIDE\workspace\Blinky\app\main.c">
-<persistable uri="file:/C:/Users/D203C-01/CoIDE/workspace/Blinky/app/main.c"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="core_cm4.h" tooltip="RNG/Core/core_cm4.h">
+<persistable path="/RNG/Core/core_cm4.h"/>
 </file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Gpio.c" tooltip="C:\Users\D203C-01\CoIDE\workspace\Blinky\app\Gpio.c">
-<persistable uri="file:/C:/Users/D203C-01/CoIDE/workspace/Blinky/app/Gpio.c"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="core_cm7.h" tooltip="RNG/Core/core_cm7.h">
+<persistable path="/RNG/Core/core_cm7.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.asm.AsmEditor" name="startup_stm32f429xx.s" tooltip="RNG/Config/startup_stm32f429xx.s">
+<persistable path="/RNG/Config/startup_stm32f429xx.s"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" tooltip="RNG/App/main.c">
+<persistable path="/RNG/App/main.c"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="RNG.h" tooltip="RNG/App/RNG.h">
 <persistable path="/RNG/App/RNG.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="RNG.c" tooltip="RNG/App/RNG.c">
+<persistable path="/RNG/App/RNG.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="system_stm32f4xx.c" tooltip="RNG/Drivers/system_stm32f4xx.c">
+<persistable path="/RNG/Drivers/system_stm32f4xx.c"/>
 </file>
 </mruList>
 </workbench>
